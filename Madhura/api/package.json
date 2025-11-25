@@ -1,0 +1,11 @@
+{
+  "name": "pokedex-api",
+  "version": "1.0.0",
+  "description": "Pokemon API for Vercel",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^2.7.0"
+  }
+}
+    
